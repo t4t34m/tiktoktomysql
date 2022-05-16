@@ -2,7 +2,7 @@
 # Tiktoker MySQL :: 
 ### is for building Dashboard to get video id of any user (09x111)
 ### mysql -u user -p < tiktoker.sql
-## start
+## start python3 tiktokmysql.py
 ![alt text](https://imgur.com/CAxXazb.png)
 ## mysql looks
 ![alt text](https://imgur.com/nCLeABu.png)
